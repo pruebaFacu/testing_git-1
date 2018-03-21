@@ -9,3 +9,6 @@ if [ ! -z $username ]; then
 else
 	echo "¡Hola Mundo! ¿Cómo están?"
 fi
+
+
+echo "Fin de programa."
